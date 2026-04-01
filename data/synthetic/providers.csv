@@ -1,0 +1,101 @@
+provider_id,provider_name,specialty,hospital_id,state,city,npi
+PRV0001,Dr. Rachel Hooper,Dermatology,HOSP0014,GA,Peckfurt,3524521602
+PRV0002,Dr. Steven Burch,Orthopedics,HOSP0030,FL,West Laura,5952163720
+PRV0003,Dr. Sharon Cunningham,Orthopedics,HOSP0002,IL,Mclaughlinville,5990610098
+PRV0004,Dr. Manuel Williams,Oncology,HOSP0050,NC,North Michaelchester,9138644862
+PRV0005,Dr. Beth Holt,Family Medicine,HOSP0036,IL,Ryanmouth,2076341629
+PRV0006,Dr. Mike Smith,Pediatrics,HOSP0036,IL,Ryanmouth,3291270703
+PRV0007,Dr. Anthony Lopez,Orthopedics,HOSP0009,AZ,North Garystad,3493857758
+PRV0008,Dr. Cheryl Mills,Orthopedics,HOSP0005,NC,North Josephview,7894019119
+PRV0009,Dr. Melanie Hall,Cardiology,HOSP0035,CA,Garzaville,1121863227
+PRV0010,Dr. Melvin Bowen,Cardiology,HOSP0045,FL,South Barbarachester,7752277876
+PRV0011,Dr. Dana Espinoza,Cardiology,HOSP0022,CA,North Jerryville,9403748506
+PRV0012,Dr. Jason Hall,Internal Medicine,HOSP0042,AZ,Murphyborough,7039121410
+PRV0013,Dr. James Haynes,Internal Medicine,HOSP0048,FL,West Danielmouth,9903351330
+PRV0014,Dr. Richard Reyes,Cardiology,HOSP0034,GA,New Carl,5973917657
+PRV0015,Dr. Laura Parsons,Neurology,HOSP0016,GA,South Amandastad,7374810067
+PRV0016,Dr. Tina Marshall,Oncology,HOSP0024,NY,Huntton,5912019621
+PRV0017,Dr. Kyle Castillo,Dermatology,HOSP0026,GA,Jasonchester,8991977937
+PRV0018,Dr. Rhonda Smith,Neurology,HOSP0033,AZ,Lake Sydney,3412273600
+PRV0019,Dr. Sharon Hensley,Dermatology,HOSP0011,CA,East Debrachester,6333223513
+PRV0020,Dr. Elizabeth Stone,Family Medicine,HOSP0007,AZ,Reneehaven,6443749394
+PRV0021,Dr. Jacob Taylor,Oncology,HOSP0018,AZ,Douglasshire,1605064858
+PRV0022,Dr. Robert Vargas,Cardiology,HOSP0022,CA,North Jerryville,7937993287
+PRV0023,Dr. Sara Smith,Oncology,HOSP0023,IL,South Melissaton,4875395503
+PRV0024,Dr. Benjamin Everett,Dermatology,HOSP0013,FL,Georgemouth,8392190335
+PRV0025,Dr. Kimberly Strickland,Oncology,HOSP0039,NC,Mcclureport,4277581356
+PRV0026,Dr. Meagan Gray,Internal Medicine,HOSP0021,NY,Lucaston,7299922974
+PRV0027,Dr. Shawna Booth,Pediatrics,HOSP0039,NC,Mcclureport,3136189070
+PRV0028,Dr. Jennifer Williams,Family Medicine,HOSP0020,OH,Lake Ryanville,9354711271
+PRV0029,Dr. Daniel Lewis,Internal Medicine,HOSP0013,FL,Georgemouth,5151887478
+PRV0030,Dr. Gregory Johnson,Oncology,HOSP0028,IL,Port Charles,7800411181
+PRV0031,Dr. Crystal White,Cardiology,HOSP0019,TX,South James,5512036684
+PRV0032,Dr. Raymond Fuller,Internal Medicine,HOSP0028,IL,Port Charles,8183421297
+PRV0033,Dr. Stacey Moran,Pediatrics,HOSP0021,NY,Lucaston,3305069227
+PRV0034,Dr. Daniel Patterson,Family Medicine,HOSP0037,OH,Lake Heather,2850820685
+PRV0035,Dr. Melissa Lee,Pediatrics,HOSP0047,TX,East Nicole,8419590655
+PRV0036,Dr. Kenneth Torres,Neurology,HOSP0049,OH,Joneshaven,2571688961
+PRV0037,Dr. Amanda Maldonado,Neurology,HOSP0030,FL,West Laura,9809655189
+PRV0038,Dr. Patricia Moore,Oncology,HOSP0041,NY,South Steveton,2239534867
+PRV0039,Dr. Antonio Maxwell,Neurology,HOSP0001,TX,New Emilytown,7460728316
+PRV0040,Dr. George Mahoney,Pediatrics,HOSP0011,CA,East Debrachester,3624410325
+PRV0041,Dr. Vanessa Myers,Orthopedics,HOSP0044,NC,West Cindyhaven,5187948804
+PRV0042,Dr. Jennifer Taylor,Neurology,HOSP0025,IL,South Daniel,9533188043
+PRV0043,Dr. Gary Mitchell,Dermatology,HOSP0011,CA,East Debrachester,4242550727
+PRV0044,Dr. Michael Avery,Oncology,HOSP0033,AZ,Lake Sydney,1172893522
+PRV0045,Dr. Kelsey Hayes,Cardiology,HOSP0045,FL,South Barbarachester,2962750929
+PRV0046,Dr. Nathan Martinez,Orthopedics,HOSP0027,GA,Valeriefort,7928074841
+PRV0047,Dr. Andrew Ewing,Orthopedics,HOSP0045,FL,South Barbarachester,8913915028
+PRV0048,Dr. John Wells,Dermatology,HOSP0011,CA,East Debrachester,7712708591
+PRV0049,Dr. Sonia Perkins,Internal Medicine,HOSP0013,FL,Georgemouth,4503614567
+PRV0050,Dr. Tara Smith,Dermatology,HOSP0007,AZ,Reneehaven,3702653209
+PRV0051,Dr. Jennifer Harris,Internal Medicine,HOSP0026,GA,Jasonchester,9810503338
+PRV0052,Dr. Christina Stanley,Internal Medicine,HOSP0022,CA,North Jerryville,8907752604
+PRV0053,Dr. Douglas Mclean,Orthopedics,HOSP0047,TX,East Nicole,2040226318
+PRV0054,Dr. Brittany Martin,Family Medicine,HOSP0001,TX,New Emilytown,1819412471
+PRV0055,Dr. Brittany Jackson,Internal Medicine,HOSP0009,AZ,North Garystad,6642266247
+PRV0056,Dr. Brianna Hernandez,Orthopedics,HOSP0028,IL,Port Charles,6170675398
+PRV0057,Dr. Ariel Davis,Internal Medicine,HOSP0011,CA,East Debrachester,9857430687
+PRV0058,Dr. Cynthia Page,Orthopedics,HOSP0034,GA,New Carl,3227727430
+PRV0059,Dr. Stephen Smith,Dermatology,HOSP0027,GA,Valeriefort,6913417379
+PRV0060,Dr. Angela Davis,Orthopedics,HOSP0044,NC,West Cindyhaven,7584730597
+PRV0061,Dr. Ashley Henderson,Dermatology,HOSP0006,TX,Kelseychester,3079537716
+PRV0062,Dr. James Ferguson,Oncology,HOSP0027,GA,Valeriefort,2282044148
+PRV0063,Dr. Juan Kelly,Pediatrics,HOSP0036,IL,Ryanmouth,8607135564
+PRV0064,Dr. Todd Mason,Oncology,HOSP0048,FL,West Danielmouth,7395219544
+PRV0065,Dr. Mindy Salinas,Internal Medicine,HOSP0028,IL,Port Charles,6469458472
+PRV0066,Dr. Jorge Fuller,Family Medicine,HOSP0010,WA,Smithstad,7627954353
+PRV0067,Dr. Nicholas Smith,Neurology,HOSP0042,AZ,Murphyborough,8809871735
+PRV0068,Dr. Erica Glass,Orthopedics,HOSP0002,IL,Mclaughlinville,2247484671
+PRV0069,Dr. Tyler Perez,Pediatrics,HOSP0040,FL,Adamview,5634396131
+PRV0070,Dr. Joseph Smith,Internal Medicine,HOSP0013,FL,Georgemouth,8112345816
+PRV0071,Dr. Hayley Miller,Internal Medicine,HOSP0044,NC,West Cindyhaven,1919066362
+PRV0072,Dr. Russell Smith,Pediatrics,HOSP0012,NC,West Paulshire,8285000265
+PRV0073,Dr. Marcus Woods,Orthopedics,HOSP0022,CA,North Jerryville,2027708670
+PRV0074,Dr. Jennifer Walker,Cardiology,HOSP0014,GA,Peckfurt,3280805846
+PRV0075,Dr. Sara Holmes,Oncology,HOSP0018,AZ,Douglasshire,1225447588
+PRV0076,Dr. Joseph Leblanc,Neurology,HOSP0005,NC,North Josephview,3028959334
+PRV0077,Dr. Ryan Kelly,Orthopedics,HOSP0031,NY,East Kimberly,4990452762
+PRV0078,Dr. Bobby Peters,Neurology,HOSP0015,NC,Deborahchester,7338081696
+PRV0079,Dr. Michelle Wolfe,Oncology,HOSP0018,AZ,Douglasshire,6528675352
+PRV0080,Dr. Bruce Thompson,Pediatrics,HOSP0021,NY,Lucaston,3774110439
+PRV0081,Dr. Joseph Palmer,Family Medicine,HOSP0009,AZ,North Garystad,4957687327
+PRV0082,Dr. Melanie Gibson,Neurology,HOSP0009,AZ,North Garystad,4949801453
+PRV0083,Dr. Michael Walker,Neurology,HOSP0039,NC,Mcclureport,8679232444
+PRV0084,Dr. Michael Jackson,Orthopedics,HOSP0038,NY,Vazquezstad,9272277508
+PRV0085,Dr. Tammy Cummings,Cardiology,HOSP0014,GA,Peckfurt,5334769475
+PRV0086,Dr. Wendy Mejia,Family Medicine,HOSP0018,AZ,Douglasshire,6733962236
+PRV0087,Dr. Heidi George,Internal Medicine,HOSP0036,IL,Ryanmouth,5031086659
+PRV0088,Dr. Brandi Cruz,Internal Medicine,HOSP0024,NY,Huntton,2171826349
+PRV0089,Dr. Alexander Love,Family Medicine,HOSP0049,OH,Joneshaven,2420277403
+PRV0090,Dr. Joseph Strong,Internal Medicine,HOSP0046,TX,Allisonshire,8079331637
+PRV0091,Dr. Donna Ford,Orthopedics,HOSP0039,NC,Mcclureport,9650425740
+PRV0092,Dr. Jennifer Mitchell,Dermatology,HOSP0049,OH,Joneshaven,8691288568
+PRV0093,Dr. Jennifer Freeman,Oncology,HOSP0048,FL,West Danielmouth,9147736635
+PRV0094,Dr. Amanda Fuller,Neurology,HOSP0019,TX,South James,7508080884
+PRV0095,Dr. Gregory Stokes,Family Medicine,HOSP0030,FL,West Laura,1409675904
+PRV0096,Dr. Isabel Skinner,Orthopedics,HOSP0048,FL,West Danielmouth,7345617046
+PRV0097,Dr. Brianna Waters,Oncology,HOSP0038,NY,Vazquezstad,5324302451
+PRV0098,Dr. Troy Wilson,Neurology,HOSP0009,AZ,North Garystad,6306523372
+PRV0099,Dr. Christina Williamson,Pediatrics,HOSP0017,CA,Ronaldside,9392515666
+PRV0100,Dr. Michael Pittman,Pediatrics,HOSP0023,IL,South Melissaton,3460489491

@@ -1,0 +1,51 @@
+hospital_id,hospital_name,hospital_type,state,city,zip_code,bed_count
+HOSP0001,Brownchester Medical Center,Academic,TX,New Emilytown,28494,429
+HOSP0002,North Jeremymouth Medical Center,Academic,IL,Mclaughlinville,63955,164
+HOSP0003,Matthewbury Medical Center,Specialty,FL,Leachview,81930,102
+HOSP0004,East Dawn Medical Center,Academic,AZ,Kevinside,75031,352
+HOSP0005,Mcgrathfort Medical Center,Academic,NC,North Josephview,95364,65
+HOSP0006,South Shawn Medical Center,Academic,TX,Kelseychester,07827,169
+HOSP0007,Ronaldbury Medical Center,Specialty,AZ,Reneehaven,35013,63
+HOSP0008,Justinborough Medical Center,Academic,AZ,South Annaland,60628,416
+HOSP0009,Kathrynstad Medical Center,Community,AZ,North Garystad,92704,162
+HOSP0010,New Amandashire Medical Center,Specialty,WA,Smithstad,09435,192
+HOSP0011,Port Vanessastad Medical Center,Academic,CA,East Debrachester,93043,407
+HOSP0012,Johnbury Medical Center,Community,NC,West Paulshire,98209,192
+HOSP0013,East Jenniferview Medical Center,Academic,FL,Georgemouth,04128,440
+HOSP0014,East Carolmouth Medical Center,Academic,GA,Peckfurt,90886,97
+HOSP0015,Norrisport Medical Center,Academic,NC,Deborahchester,54143,233
+HOSP0016,Beasleyfurt Medical Center,Specialty,GA,South Amandastad,61750,185
+HOSP0017,Kristinfurt Medical Center,Specialty,CA,Ronaldside,69043,285
+HOSP0018,Khanbury Medical Center,Academic,AZ,Douglasshire,62735,243
+HOSP0019,Danielsfurt Medical Center,Specialty,TX,South James,46510,200
+HOSP0020,Mcbrideville Medical Center,Community,OH,Lake Ryanville,38665,345
+HOSP0021,Crystalmouth Medical Center,Specialty,NY,Lucaston,97996,85
+HOSP0022,Williamport Medical Center,Specialty,CA,North Jerryville,22553,166
+HOSP0023,New Jasmine Medical Center,Academic,IL,South Melissaton,77087,487
+HOSP0024,Perkinsshire Medical Center,Academic,NY,Huntton,32588,244
+HOSP0025,Hunterfurt Medical Center,Community,IL,South Daniel,05942,375
+HOSP0026,Mcdowellbury Medical Center,Academic,GA,Jasonchester,30947,239
+HOSP0027,West Bradshire Medical Center,Academic,GA,Valeriefort,44283,393
+HOSP0028,South Donna Medical Center,Specialty,IL,Port Charles,68949,399
+HOSP0029,Russellbury Medical Center,Specialty,TX,Tyronefort,36019,375
+HOSP0030,Tiffanybury Medical Center,Specialty,FL,West Laura,37462,423
+HOSP0031,Mullinsstad Medical Center,Academic,NY,East Kimberly,19520,286
+HOSP0032,East Paigeport Medical Center,Community,NC,Pereztown,05296,377
+HOSP0033,South Deanborough Medical Center,Academic,AZ,Lake Sydney,34648,400
+HOSP0034,Moraborough Medical Center,Academic,GA,New Carl,45925,167
+HOSP0035,East John Medical Center,Community,CA,Garzaville,51255,255
+HOSP0036,East Aprilshire Medical Center,Academic,IL,Ryanmouth,32664,158
+HOSP0037,Bowmanmouth Medical Center,Specialty,OH,Lake Heather,37640,211
+HOSP0038,Port Scott Medical Center,Specialty,NY,Vazquezstad,34657,305
+HOSP0039,Rachelville Medical Center,Specialty,NC,Mcclureport,98297,284
+HOSP0040,Glennville Medical Center,Community,FL,Adamview,85049,121
+HOSP0041,North Tammyton Medical Center,Specialty,NY,South Steveton,11247,337
+HOSP0042,Ballardtown Medical Center,Community,AZ,Murphyborough,52914,432
+HOSP0043,Port Linda Medical Center,Community,OH,Lake Jeffrey,01640,348
+HOSP0044,North Joelton Medical Center,Community,NC,West Cindyhaven,65998,162
+HOSP0045,Lake Stephaniefort Medical Center,Specialty,FL,South Barbarachester,33387,302
+HOSP0046,Lake Brittany Medical Center,Academic,TX,Allisonshire,86633,490
+HOSP0047,New Robert Medical Center,Academic,TX,East Nicole,97290,371
+HOSP0048,New Vanessa Medical Center,Specialty,FL,West Danielmouth,64326,266
+HOSP0049,Herringtown Medical Center,Academic,OH,Joneshaven,78096,247
+HOSP0050,East Robert Medical Center,Specialty,NC,North Michaelchester,90942,289

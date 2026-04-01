@@ -1,0 +1,11 @@
+diagnosis_code,diagnosis_description,diagnosis_category
+E11.9,Type 2 diabetes mellitus without complications,Endocrine
+I10,Essential hypertension,Cardiology
+J20.9,"Acute bronchitis, unspecified",Respiratory
+M54.5,Low back pain,Orthopedics
+C50.9,"Breast cancer, unspecified",Oncology
+F41.9,"Anxiety disorder, unspecified",Behavioral Health
+K21.9,Gastro-esophageal reflux disease,Gastroenterology
+N39.0,Urinary tract infection,Infectious Disease
+G43.9,"Migraine, unspecified",Neurology
+R07.9,"Chest pain, unspecified",General Medicine

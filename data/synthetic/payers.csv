@@ -1,0 +1,21 @@
+payer_id,payer_name,payer_type,state
+PAY001,UnitedHealthcare,Medicaid,AZ
+PAY002,Aetna,Commercial,TX
+PAY003,Cigna,Medicaid,GA
+PAY004,Humana,Commercial,IL
+PAY005,Blue Cross Blue Shield,Self-Pay,FL
+PAY006,Kaiser Permanente,Self-Pay,CA
+PAY007,Molina Healthcare,Medicaid,AZ
+PAY008,Centene,Medicare,AZ
+PAY009,Anthem,Commercial,IL
+PAY010,Medica,Medicare,FL
+PAY011,CareFirst,Medicaid,FL
+PAY012,Health Net,Commercial,OH
+PAY013,Oscar Health,Medicaid,WA
+PAY014,EmblemHealth,Commercial,TX
+PAY015,Highmark,Medicaid,IL
+PAY016,WellCare,Medicare,CA
+PAY017,Tricare,Medicare,OH
+PAY018,Medicaid Plan A,Commercial,TX
+PAY019,Medicare Plan B,Self-Pay,TX
+PAY020,Self Pay Network,Medicare,FL
