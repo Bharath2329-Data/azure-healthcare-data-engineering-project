@@ -1,0 +1,133 @@
+﻿hospital_name,claim_status,total_claims
+Ballardtown Medical Center,Paid,46
+Ballardtown Medical Center,Pending,14
+Ballardtown Medical Center,Denied,12
+Beasleyfurt Medical Center,Paid,30
+Beasleyfurt Medical Center,Pending,6
+Beasleyfurt Medical Center,Denied,2
+Bowmanmouth Medical Center,Paid,18
+Bowmanmouth Medical Center,Denied,8
+Bowmanmouth Medical Center,Pending,8
+Brownchester Medical Center,Paid,50
+Brownchester Medical Center,Denied,10
+Brownchester Medical Center,Pending,6
+Crystalmouth Medical Center,Paid,90
+Crystalmouth Medical Center,Pending,16
+Crystalmouth Medical Center,Denied,12
+Danielsfurt Medical Center,Paid,64
+Danielsfurt Medical Center,Denied,6
+Danielsfurt Medical Center,Pending,6
+East Aprilshire Medical Center,Paid,136
+East Aprilshire Medical Center,Pending,28
+East Aprilshire Medical Center,Denied,16
+East Carolmouth Medical Center,Paid,102
+East Carolmouth Medical Center,Pending,20
+East Carolmouth Medical Center,Denied,12
+East Jenniferview Medical Center,Paid,116
+East Jenniferview Medical Center,Denied,24
+East Jenniferview Medical Center,Pending,20
+East John Medical Center,Paid,38
+East John Medical Center,Denied,4
+East John Medical Center,Pending,4
+East Robert Medical Center,Paid,10
+East Robert Medical Center,Denied,6
+East Robert Medical Center,Pending,4
+Glennville Medical Center,Paid,34
+Glennville Medical Center,Pending,8
+Glennville Medical Center,Denied,6
+Herringtown Medical Center,Paid,82
+Herringtown Medical Center,Denied,16
+Herringtown Medical Center,Pending,12
+Hunterfurt Medical Center,Paid,40
+Hunterfurt Medical Center,Pending,12
+Hunterfurt Medical Center,Denied,6
+Johnbury Medical Center,Paid,18
+Johnbury Medical Center,Pending,8
+Johnbury Medical Center,Denied,6
+Kathrynstad Medical Center,Paid,122
+Kathrynstad Medical Center,Denied,38
+Kathrynstad Medical Center,Pending,34
+Khanbury Medical Center,Paid,110
+Khanbury Medical Center,Denied,32
+Khanbury Medical Center,Pending,24
+Kristinfurt Medical Center,Paid,26
+Kristinfurt Medical Center,Denied,12
+Kristinfurt Medical Center,Pending,8
+Lake Brittany Medical Center,Paid,14
+Lake Brittany Medical Center,Denied,12
+Lake Brittany Medical Center,Pending,6
+Lake Stephaniefort Medical Center,Paid,64
+Lake Stephaniefort Medical Center,Denied,16
+Lake Stephaniefort Medical Center,Pending,14
+Mcbrideville Medical Center,Paid,28
+Mcbrideville Medical Center,Pending,6
+Mcbrideville Medical Center,Denied,2
+Mcdowellbury Medical Center,Paid,42
+Mcdowellbury Medical Center,Pending,18
+Mcdowellbury Medical Center,Denied,4
+Mcgrathfort Medical Center,Paid,48
+Mcgrathfort Medical Center,Pending,14
+Mcgrathfort Medical Center,Denied,6
+Moraborough Medical Center,Paid,62
+Moraborough Medical Center,Denied,6
+Moraborough Medical Center,Pending,4
+Mullinsstad Medical Center,Paid,38
+Mullinsstad Medical Center,Denied,10
+Mullinsstad Medical Center,Pending,10
+New Amandashire Medical Center,Paid,18
+New Amandashire Medical Center,Denied,10
+New Amandashire Medical Center,Pending,2
+New Jasmine Medical Center,Paid,54
+New Jasmine Medical Center,Denied,14
+New Jasmine Medical Center,Pending,8
+New Robert Medical Center,Paid,50
+New Robert Medical Center,Denied,22
+New Robert Medical Center,Pending,8
+New Vanessa Medical Center,Paid,100
+New Vanessa Medical Center,Denied,26
+New Vanessa Medical Center,Pending,18
+Norrisport Medical Center,Paid,24
+Norrisport Medical Center,Pending,6
+Norrisport Medical Center,Denied,4
+North Jeremymouth Medical Center,Paid,76
+North Jeremymouth Medical Center,Pending,16
+North Jeremymouth Medical Center,Denied,14
+North Joelton Medical Center,Paid,92
+North Joelton Medical Center,Pending,26
+North Joelton Medical Center,Denied,14
+North Tammyton Medical Center,Paid,28
+North Tammyton Medical Center,Denied,8
+North Tammyton Medical Center,Pending,4
+Perkinsshire Medical Center,Paid,50
+Perkinsshire Medical Center,Pending,14
+Perkinsshire Medical Center,Denied,4
+Port Scott Medical Center,Paid,72
+Port Scott Medical Center,Pending,14
+Port Scott Medical Center,Denied,12
+Port Vanessastad Medical Center,Paid,118
+Port Vanessastad Medical Center,Pending,30
+Port Vanessastad Medical Center,Denied,26
+Rachelville Medical Center,Paid,144
+Rachelville Medical Center,Denied,24
+Rachelville Medical Center,Pending,16
+Ronaldbury Medical Center,Paid,58
+Ronaldbury Medical Center,Denied,14
+Ronaldbury Medical Center,Pending,10
+South Deanborough Medical Center,Paid,50
+South Deanborough Medical Center,Pending,20
+South Deanborough Medical Center,Denied,10
+South Donna Medical Center,Paid,116
+South Donna Medical Center,Pending,22
+South Donna Medical Center,Denied,18
+South Shawn Medical Center,Paid,46
+South Shawn Medical Center,Denied,4
+South Shawn Medical Center,Pending,2
+Tiffanybury Medical Center,Paid,98
+Tiffanybury Medical Center,Denied,18
+Tiffanybury Medical Center,Pending,14
+West Bradshire Medical Center,Paid,82
+West Bradshire Medical Center,Pending,26
+West Bradshire Medical Center,Denied,20
+Williamport Medical Center,Paid,128
+Williamport Medical Center,Denied,28
+Williamport Medical Center,Pending,28

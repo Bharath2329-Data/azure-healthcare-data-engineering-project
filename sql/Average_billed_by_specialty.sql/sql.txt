@@ -1,0 +1,10 @@
+SELECT
+    p.specialty,
+    AVG(f.billed_amount) AS avg_billed_amount
+FROM fact_claims f
+JOIN dim_provider p
+    ON f.provider_key = p.provider_key
+GROUP BY
+    p.specialty
+ORDER BY
+    avg_billed_amount DESC;

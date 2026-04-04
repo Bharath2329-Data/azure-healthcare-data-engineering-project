@@ -1,0 +1,13 @@
+SELECT
+    h.hospital_name,
+    f.claim_status,
+    COUNT(*) AS total_claims
+FROM fact_claims f
+JOIN dim_hospital h
+    ON f.hospital_key = h.hospital_key
+GROUP BY
+    h.hospital_name,
+    f.claim_status
+ORDER BY
+    h.hospital_name,
+    total_claims DESC;
