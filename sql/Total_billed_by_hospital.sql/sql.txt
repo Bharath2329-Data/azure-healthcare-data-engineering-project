@@ -1,0 +1,10 @@
+SELECT
+    h.hospital_name,
+    SUM(f.billed_amount) AS total_billed
+FROM fact_claims f
+JOIN dim_hospital h
+    ON f.hospital_key = h.hospital_key
+GROUP BY
+    h.hospital_name
+ORDER BY
+    total_billed DESC;

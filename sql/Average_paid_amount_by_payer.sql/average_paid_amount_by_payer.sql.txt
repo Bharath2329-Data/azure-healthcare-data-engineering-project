@@ -1,0 +1,10 @@
+SELECT
+    py.payer_name,
+    AVG(f.paid_amount) AS avg_paid_amount
+FROM fact_claims f
+JOIN dim_payer py
+    ON f.payer_key = py.payer_key
+GROUP BY
+    py.payer_name
+ORDER BY
+    avg_paid_amount DESC;

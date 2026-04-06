@@ -1,0 +1,10 @@
+SELECT
+    py.payer_name,
+    COUNT(*) AS total_claims
+FROM fact_claims f
+JOIN dim_payer py
+    ON f.payer_key = py.payer_key
+GROUP BY
+    py.payer_name
+ORDER BY
+    total_claims DESC;

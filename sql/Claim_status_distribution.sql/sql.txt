@@ -1,0 +1,8 @@
+SELECT
+    claim_status,
+    COUNT(*) AS total_claims
+FROM fact_claims
+GROUP BY
+    claim_status
+ORDER BY
+    total_claims DESC;
