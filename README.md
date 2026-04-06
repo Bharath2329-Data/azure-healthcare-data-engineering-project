@@ -297,6 +297,76 @@ This project simulates real healthcare analytics use cases:
 * Power BI dashboarding
 * Data quality & governance
 
+## 📸 Dashboard Preview
+
+Below is the Power BI dashboard built on top of the healthcare data warehouse.
+
+![Healthcare Dashboard](dashboard/dashboard.png)
+
+### 🔍 Key Highlights:
+
+* KPI Cards: Total Billed, Total Paid, Total Claims
+* Monthly Trend Analysis
+* Top Providers by Revenue
+* Claim Status Distribution
+* Interactive Filters (Year, Month)
+
+---
+
+## 🏗️ Architecture Diagram
+
+```
+                ┌──────────────────────────┐
+                │   Raw Data (CSV Files)   │
+                │ Patients, Claims, etc.  │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Azure Data Lake (Bronze) │
+                │   Raw Data Storage         │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │ Azure Data Factory (ADF) │
+                │ Data Ingestion Pipelines │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Silver Layer (Cleaned) │
+                │   Processed Data         │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Gold Layer (Warehouse) │
+                │ Fact + Dimension Tables  │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │     SQL Analytics        │
+                │ Business Queries         │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │      Power BI Dashboard  │
+                │ Visualization & Insights │
+                └──────────────────────────┘
+```
+
+---
+
+## 📊 Data Flow Summary
+
+1. Raw healthcare data is ingested into **Azure Data Lake (Bronze layer)**
+2. Data is cleaned and transformed into **Silver layer**
+3. Data is modeled into **Fact & Dimension tables (Gold layer)**
+4. SQL queries generate **business insights**
+5. Power BI visualizes the data for **decision-making**
 ---
 
 ## 👤 Author
