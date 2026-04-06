@@ -301,7 +301,7 @@ This project simulates real healthcare analytics use cases:
 
 Below is the Power BI dashboard built on top of the healthcare data warehouse.
 
-![Healthcare Dashboard](dashboard/dashboard.png)
+![Healthcare Dashboard](dashboard.png/Dahboard_BI.png)
 
 ### 🔍 Key Highlights:
 
