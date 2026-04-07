@@ -1,0 +1,18 @@
+Healthcare-Data-Engineering/
+│
+├── data/
+│   └── raw files
+│
+├── pipelines/
+│   └── ADF pipelines
+│
+├── notebooks/
+│   └── Databricks transformations
+│
+├── sql/
+│   └── analytics/
+│
+├── dashboard/
+│   └── Power BI (.pbix)
+│
+└── README.md

@@ -1,0 +1,84 @@
+End-to-End Healthcare Data Engineering & Analytics Platform
+📌 Project Overview
+
+This project demonstrates a complete end-to-end data engineering workflow in the healthcare domain, simulating how real-world organizations process and analyze large-scale claims data.
+
+The solution covers the entire lifecycle:
+
+Data ingestion from raw sources
+Data transformation and cleansing
+Dimensional data modeling (Star Schema)
+Analytical querying using SQL
+Business intelligence reporting using Power BI
+
+The goal is to enable stakeholders to analyze:
+
+Claim trends over time
+Provider performance
+Financial metrics (billed vs paid)
+Claim status distribution
+
+
+## 📸 Dashboard Preview
+
+Below is the Power BI dashboard built on top of the healthcare data warehouse.
+
+![Healthcare Dashboard](dashboard/dashboard.png)
+
+### 🔍 Key Highlights:
+
+* KPI Cards: Total Billed, Total Paid, Total Claims
+* Monthly Trend Analysis
+* Top Providers by Revenue
+* Claim Status Distribution
+* Interactive Filters (Year, Month)
+
+---
+
+## 🏗️ Architecture Diagram
+
+```
+                ┌──────────────────────────┐
+                │   Raw Data (CSV Files)   │
+                │ Patients, Claims, etc.  │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Azure Data Lake (Bronze) │
+                │   Raw Data Storage         │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │ Azure Data Factory (ADF) │
+                │ Data Ingestion Pipelines │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Silver Layer (Cleaned) │
+                │   Processed Data         │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Gold Layer (Warehouse) │
+                │ Fact + Dimension Tables  │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │     SQL Analytics        │
+                │ Business Queries         │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │      Power BI Dashboard  │
+                │ Visualization & Insights │
+                └──────────────────────────┘
+```
+
+
+---
