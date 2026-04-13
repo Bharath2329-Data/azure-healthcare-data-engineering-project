@@ -1,4 +1,5 @@
 # End-to-End Healthcare Data Engineering & Analytics Platform
+(docs/images/Architecture diagram.png)
 
 ---
 
