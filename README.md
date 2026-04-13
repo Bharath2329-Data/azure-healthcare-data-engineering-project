@@ -1,8 +1,8 @@
-# 🏥 End-to-End Healthcare Data Engineering & Analytics Platform
+# End-to-End Healthcare Data Engineering & Analytics Platform
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a complete **end-to-end data engineering workflow** in the healthcare domain, simulating how real-world organizations process and analyze large-scale claims data.
 
@@ -23,7 +23,7 @@ The goal is to enable stakeholders to analyze:
 
 ---
 
-## 🏗️ Architecture (Medallion Design)
+## Architecture (Medallion Design)
 
 This project follows the **Medallion Architecture (Bronze → Silver → Gold)**:
 
@@ -48,7 +48,7 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 | Category        | Tools                                    |
 | --------------- | ---------------------------------------- |
@@ -61,22 +61,21 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
 
 ---
 
-## 📅 Detailed Implementation (Day-by-Day)
+## Detailed Implementation (Day-by-Day)
 
 ---
 
-### ✅ Day 1 — Project Initialization
+### Day 1 — Project Initialization
 
 * Designed project architecture and scope
 * Created GitHub repository and folder structure
 * Defined naming conventions and pipeline strategy
 * Uploaded initial healthcare datasets
-
-📌 Outcome: Strong project foundation with structured repository
+ Outcome: Strong project foundation with structured repository
 
 ---
 
-### ✅ Day 2 — Data Lake Setup
+###  Day 2 — Data Lake Setup
 
 * Provisioned Azure Data Lake Storage Gen2
 * Created containers:
@@ -91,11 +90,11 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
   * payers
   * hospitals
 
-📌 Outcome: Centralized and scalable storage layer
+ Outcome: Centralized and scalable storage layer
 
 ---
 
-### ✅ Day 3 — Data Ingestion Pipelines (ADF)
+### Day 3 — Data Ingestion Pipelines (ADF)
 
 * Created source datasets for bronze layer
 * Created sink datasets for silver layer
@@ -109,7 +108,7 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
 
 ---
 
-### ✅ Day 4 — Data Transformation (Silver Layer)
+### Day 4 — Data Transformation (Silver Layer)
 
 * Applied transformations:
 
@@ -119,11 +118,11 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
 * Ensured schema consistency
 * Prepared clean datasets
 
-📌 Outcome: High-quality, analytics-ready data
+ Outcome: High-quality, analytics-ready data
 
 ---
 
-### ✅ Day 5 — Data Modeling (Star Schema)
+### Day 5 — Data Modeling (Star Schema)
 
 * Designed dimensional model:
 
@@ -147,22 +146,22 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
 
 * Established relationships
 
-📌 Outcome: Scalable and optimized data warehouse
+ Outcome: Scalable and optimized data warehouse
 
 ---
 
-### ✅ Day 6 — Dimension Table Implementation
+### Day 6 — Dimension Table Implementation
 
 * Created dimension tables from silver data
 * Generated surrogate keys
 * Removed duplicates
 * Ensured referential integrity
 
-📌 Outcome: Clean and normalized dimension layer
+ Outcome: Clean and normalized dimension layer
 
 ---
 
-### ✅ Day 7 — Date Dimension & Fact Table Loading
+### Day 7 — Date Dimension & Fact Table Loading
 
 * Built dim_date table with:
 
@@ -175,18 +174,18 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
   * Joined all dimension tables
   * Created foreign key mappings
 
-📌 Outcome: Fully connected warehouse model
+ Outcome: Fully connected warehouse model
 
 ---
 
-### ✅ Day 8 — SQL Business Analytics
+### Day 8 — SQL Business Analytics
 
 Developed analytical queries:
 
-* 📊 Monthly claim trend
-* 🏥 Top providers by billed amount
-* 📈 Claim status distribution
-* 💰 Average paid amount by payer
+*  Monthly claim trend
+*  Top providers by billed amount
+*  Claim status distribution
+*  Average paid amount by payer
 
 Stored in:
 
@@ -194,11 +193,11 @@ Stored in:
 sql/analytics/
 ```
 
-📌 Outcome: Business-ready insights using SQL
+ Outcome: Business-ready insights using SQL
 
 ---
 
-### ✅ Day 9 — Power BI Dashboard Development
+### Day 9 — Power BI Dashboard Development
 
 Created interactive dashboard:
 
@@ -214,11 +213,11 @@ Created interactive dashboard:
 * Bar Chart → Top providers
 * Pie Chart → Claim status
 
-📌 Outcome: Interactive reporting layer
+ Outcome: Interactive reporting layer
 
 ---
 
-### ✅ Day 10 — Final Dashboard & Optimization
+### Day 10 — Final Dashboard & Optimization
 
 * Added slicers:
 
@@ -228,11 +227,11 @@ Created interactive dashboard:
 * Formatted visuals for clarity
 * Optimized layout for storytelling
 
-📌 Outcome: Production-ready dashboard
+ Outcome: Production-ready dashboard
 
 ---
 
-## 📊 Key Business Insights
+## Key Business Insights
 
 * Identified high-performing providers contributing maximum revenue
 * Analyzed seasonal trends in claims
@@ -241,7 +240,7 @@ Created interactive dashboard:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Healthcare-Data-Engineering/
@@ -266,7 +265,7 @@ Healthcare-Data-Engineering/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Upload raw data → Bronze layer
 2. Execute ADF pipelines → Move to Silver
@@ -277,7 +276,7 @@ Healthcare-Data-Engineering/
 
 ---
 
-## 💼 Real-World Relevance
+## Real-World Relevance
 
 This project simulates real healthcare analytics use cases:
 
@@ -288,7 +287,7 @@ This project simulates real healthcare analytics use cases:
 
 ---
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * End-to-end ETL pipeline design
 * Data lake + warehouse architecture
@@ -297,13 +296,13 @@ This project simulates real healthcare analytics use cases:
 * Power BI dashboarding
 * Data quality & governance
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 Below is the Power BI dashboard built on top of the healthcare data warehouse.
 
 ![Healthcare Dashboard](dashboard/Dashboard_Bl.png)
 
-### 🔍 Key Highlights:
+### Key Highlights:
 
 * KPI Cards: Total Billed, Total Paid, Total Claims
 * Monthly Trend Analysis
@@ -313,7 +312,7 @@ Below is the Power BI dashboard built on top of the healthcare data warehouse.
 
 ---
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 ```
                 ┌──────────────────────────┐
@@ -360,7 +359,7 @@ Below is the Power BI dashboard built on top of the healthcare data warehouse.
 
 ---
 
-## 📊 Data Flow Summary
+## Data Flow Summary
 
 1. Raw healthcare data is ingested into **Azure Data Lake (Bronze layer)**
 2. Data is cleaned and transformed into **Silver layer**
@@ -369,11 +368,11 @@ Below is the Power BI dashboard built on top of the healthcare data warehouse.
 5. Power BI visualizes the data for **decision-making**
 ---
 
-## 👤 Author
+## Author
 
 **Bharath**
 Data Engineer
 SQL | Python | Azure | Power BI
 
 ---
-Update check Sun Apr 5 23:51:08 CDT 2026
+
