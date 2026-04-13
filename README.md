@@ -1,5 +1,5 @@
 # End-to-End Healthcare Data Engineering & Analytics Platform
-![Healthcare Pipeline](docs/images/Architecture diagram.png)
+![Healthcare Pipeline](docs/images/architecture-diagram.png)
 
 ---
 
