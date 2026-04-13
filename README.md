@@ -104,7 +104,7 @@ This project follows the **Medallion Architecture (Bronze → Silver → Gold)**
   * pl_copy_providers_bronze_to_silver
 * Used Copy Activity for ingestion
 
-📌 Outcome: Automated ETL pipelines for data movement
+ Outcome: Automated ETL pipelines for data movement
 
 ---
 
